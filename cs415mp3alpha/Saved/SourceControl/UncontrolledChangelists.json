@@ -5,6 +5,11 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/zixuanq3/Downloads/CS415_Final_Project_Team_48-main/CS415_Final_Project_Team_48-main/cs415mp3alpha/Content/LearningKit_Games/Blueprints/PlayerCharacter/BP_LearningKit_PlayerCharacter.uasset",
+				"C:/Users/zixuanq3/Downloads/CS415_Final_Project_Team_48-main/CS415_Final_Project_Team_48-main/cs415mp3alpha/Content/UI/W_Score.uasset",
+				"C:/Users/zixuanq3/Downloads/CS415_Final_Project_Team_48-main/CS415_Final_Project_Team_48-main/cs415mp3alpha/Content/UI/W_NoAmmo.uasset",
+				"C:/Users/zixuanq3/Downloads/CS415_Final_Project_Team_48-main/CS415_Final_Project_Team_48-main/cs415mp3alpha/Content/LearningKit_Games/Maps/LearningKit_Games_Showcase.umap",
+				"C:/Users/zixuanq3/Downloads/CS415_Final_Project_Team_48-main/CS415_Final_Project_Team_48-main/cs415mp3alpha/Content/LearningKit_Games/Blueprints/Pickups/BP_AmmoPack.uasset",
 				"C:/Users/zixuanq3/Downloads/CS415MP-main/CS415MP-main/CS415_mp2/UnrealLearningKit1011/Content/LearningKit_Games/Maps/LearningKit_Games_Showcase.umap",
 				"C:/Users/zixuanq3/Downloads/CS415MP-main/CS415MP-main/CS415_mp2/UnrealLearningKit1011/Content/LearningKit_Games/Blueprints/Enemy/E_New_Enemy.uasset",
 				"C:/Users/zixuanq3/Downloads/CS415MP-main/CS415MP-main/CS415_mp2/UnrealLearningKit1011/Content/LearningKit_Games/Blueprints/Enemy/E_Missile.uasset",
