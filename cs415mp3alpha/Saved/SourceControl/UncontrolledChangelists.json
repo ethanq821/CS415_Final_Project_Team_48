@@ -5,6 +5,10 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/ajitps2/Documents/GitHub/CS415_Final_Project_Team_48/cs415mp3alpha/Content/LearningKit_Games/Maps/LearningKit_Games_Showcase.umap",
+				"C:/Users/ajitps2/Documents/GitHub/CS415_Final_Project_Team_48/cs415mp3alpha/Content/LearningKit_Games/Blueprints/PlayerCharacter/BP_LearningKit_PlayerCharacter.uasset",
+				"C:/Users/ajitps2/Documents/GitHub/CS415_Final_Project_Team_48/cs415mp3alpha/Content/LearningKit_Games/Blueprints/Enemy/BP_SmartMortar.uasset",
+				"C:/Users/ajitps2/Documents/GitHub/CS415_Final_Project_Team_48/cs415mp3alpha/Content/LearningKit_Games/Blueprints/Enemy/BP_Bullet.uasset",
 				"C:/Users/zixuanq3/Downloads/CS415_Final_Project_Team_48-main/CS415_Final_Project_Team_48-main/cs415mp3alpha/Content/LearningKit_Games/Blueprints/PlayerCharacter/BP_LearningKit_PlayerCharacter.uasset",
 				"C:/Users/zixuanq3/Downloads/CS415_Final_Project_Team_48-main/CS415_Final_Project_Team_48-main/cs415mp3alpha/Content/UI/W_Score.uasset",
 				"C:/Users/zixuanq3/Downloads/CS415_Final_Project_Team_48-main/CS415_Final_Project_Team_48-main/cs415mp3alpha/Content/UI/W_NoAmmo.uasset",
